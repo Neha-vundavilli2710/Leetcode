@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0396-rotate-function](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -84,6 +85,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -265,6 +267,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
