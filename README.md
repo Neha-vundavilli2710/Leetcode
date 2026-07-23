@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0396-rotate-function](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -136,6 +137,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Design
@@ -282,4 +285,12 @@
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
