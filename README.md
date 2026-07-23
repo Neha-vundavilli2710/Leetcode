@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0396-rotate-function](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -142,6 +144,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -229,6 +232,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Neha-vundavilli2710/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
